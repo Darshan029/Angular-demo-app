@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   h_variable = "String by variable";
-  h_array = ['R', 7, 'A', 'H', 'U', 'L', '.', 'J', 5];
+  h_array = ['D', 7, 'A', 'R', 'S', 'H', '.', 'N', 5];
   h_object = {
     name:"Angular",
     sem:6,
